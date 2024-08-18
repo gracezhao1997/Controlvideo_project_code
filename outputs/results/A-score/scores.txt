@@ -1,0 +1,25 @@
+2024-08-18 23:20:50,451 - clip-text SCORE-video24-gentle green ink diffuses in water, beautiful light: 0.24075302481651306
+2024-08-18 23:20:50,739 - clip-text SCORE-video24-a car, Vincent van Gogh style: 0.2463335394859314
+2024-08-18 23:20:51,025 - clip-text SCORE-video24-a car, autumn: 0.2648892402648926
+2024-08-18 23:20:51,311 - clip-text SCORE-video24-a red car: 0.20977526903152466
+2024-08-18 23:20:51,597 - clip-text SCORE-video24-a girl, at night, foggy, soft cinematic lighting: 0.28668272495269775
+2024-08-18 23:20:51,890 - clip-text SCORE-video24-a girl, Krenz Cushart style: 0.27051571011543274
+2024-08-18 23:20:52,189 - clip-text SCORE-video24-a girl, red hair: 0.263821542263031
+2024-08-18 23:20:52,487 - clip-text SCORE-video24-a wooden building, at night: 0.2751167416572571
+2024-08-18 23:20:52,786 - clip-text SCORE-video24-a black swan is swimming in a river, Vincent van Gogh style: 0.2968873381614685
+2024-08-18 23:20:53,085 - clip-text SCORE-video24-a red car: 0.23165974020957947
+2024-08-18 23:20:53,381 - clip-text SCORE-video24-a black cat: 0.26758939027786255
+2024-08-18 23:20:53,675 - clip-text SCORE-video24-a girl, Krenz Cushart style: 0.2282024770975113
+2024-08-18 23:20:53,973 - clip-text SCORE-video24-a girl with red hair: 0.22680425643920898
+2024-08-18 23:20:54,268 - clip-text SCORE-video24-a girl, at night, foggy, soft cinematic lighting: 0.24010680615901947
+2024-08-18 23:20:54,564 - clip-text SCORE-video24-a girl with golden dress: 0.26711368560791016
+2024-08-18 23:20:54,857 - clip-text SCORE-video24-a girl with exquisite and rich makeup: 0.22859278321266174
+2024-08-18 23:20:55,146 - clip-text SCORE-video24-a girl with rich makeup: 0.228047177195549
+2024-08-18 23:20:55,440 - clip-text SCORE-video24-a girl with rich makeup: 0.216959148645401
+2024-08-18 23:20:55,731 - clip-text SCORE-video24-a man on a snow mountain, realistic: 0.24724528193473816
+2024-08-18 23:20:56,026 - clip-text SCORE-video24-a jeep car is moving on the road, beautiful autumn: 0.26446378231048584
+2024-08-18 23:20:56,319 - clip-text SCORE-video24-a jeep car is moving on the road, watercolor painting: 0.3164898157119751
+2024-08-18 23:20:56,614 - clip-text SCORE-video24-a Swarovski crystal swan is swimming in a river: 0.315138041973114
+2024-08-18 23:20:56,892 - clip-text SCORE-video24-the back view of a woman, Toei Animation style: 0.21745356917381287
+2024-08-18 23:20:57,177 - clip-text SCORE-video24-the back view of a woman admiring beautiful sunrising, early morning: 0.19666045904159546
+2024-08-18 23:20:57,466 - clip-text SCORE-video24-a cake with romantic pure red candlestick, beautifully backlit, matte painting concept art: 0.27734044194221497

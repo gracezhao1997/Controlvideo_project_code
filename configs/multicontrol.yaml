@@ -1,0 +1,52 @@
+function: "basic"
+output_dir: ""
+pretrained_model_path: "./stable-diffusion-v1-5"
+pretrained_controlnet_path: "./sd-controlnet-canny"
+max_train_steps: 80
+learning_rate: 3e-5
+validation_steps: 20
+train_batch_size: 1
+trainable_modules:
+  - "attn1.to_out"
+  - "attn_temp"
+  - "norm_temp"
+  - "conv_temp"
+seed: 0
+mixed_precision: fp16
+gradient_checkpointing: True
+enable_xformers_memory_efficient_attention: True
+
+control_config:
+  type: "canny"
+  control_scale: 1.0
+  low_threshold: 100
+  high_threshold: 100
+
+train_data:
+  video_path: ""
+  prompt: ""
+  n_sample_frames: 8
+  width: 512
+  height: 512
+  sample_start_idx: 0
+  sample_frame_rate: 0
+
+validation_data:
+  prompts:
+    - ""
+  video_length: 8
+  width: 512
+  height: 512
+  guidance_scale: 12
+  num_steps: 50
+  start: "noise"
+  edit_type: "DDIM"
+  strength: 0.8
+  overlap: 6
+  sub_frames: 12
+  key_weight: 0.3
+  var: 0.1
+
+lora:
+  pretrained_lora_path: ""
+  alpha: 0.7
